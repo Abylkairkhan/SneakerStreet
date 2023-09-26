@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291364213109",
+    "firebase_url": "https://sneakerstreet-shop-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sneakerstreet-shop",
+    "storage_bucket": "sneakerstreet-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291364213109:android:806baabd1f40146467833c",
+        "android_client_info": {
+          "package_name": "com.example.sneakerstreet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291364213109-k8hssck7hne1lkgl6vp5pb0his9mfkh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwbTSl3kuj4cwyhhOVY1w_5-0tQn_ryd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291364213109-k8hssck7hne1lkgl6vp5pb0his9mfkh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
